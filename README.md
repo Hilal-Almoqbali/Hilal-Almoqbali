@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 
 ### 🌎 My Languages 🌎
 - om Arabic: Native
-- uk English: C1
+- uk English: B2
 
 [What does A1/B1/etc mean?](https://blog.chatterbug.com/en/how-to-talk-about-language-learning/)
