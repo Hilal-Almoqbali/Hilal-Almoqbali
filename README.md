@@ -5,13 +5,11 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning math, C/C++,and JS.
+- 🔭 I’m currently working on C/C++ projects, and personal website
+- 🌱 I’m currently learning mathematics, C/C++,and JS.
 - 🤔 I’m looking for 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: Twitter[@Hilal_Almoqbali](https://twitter.com/Hilal_Almoqbali)
 
 ### 🌎 My Languages 🌎
 - om Arabic: Native
