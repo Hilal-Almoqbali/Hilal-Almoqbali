@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - om Arabic: Native
 - uk English: B2
 
-[What does A1/B1/etc mean?](https://blog.chatterbug.com/en/how-to-talk-about-language-learning/)
+[What does A1/A2/B1/B2/C1/C2 mean?](https://blog.chatterbug.com/en/how-to-talk-about-language-learning/)
