@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <img  src="https://github-readme-stats.vercel.app/api?username=hilal-almoqbali&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hilal-almoqbali&theme=dark" width="48%" >
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilal-almoqbali&hide=javascript,html)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilal-almoqbali&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 
