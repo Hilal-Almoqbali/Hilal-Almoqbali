@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 <br/>
 </p>
 
-![hilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hilal-Almoqbali&show_icons=true&theme=outrun)\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hilal-Almoqbali&hide=javascript,html)
+<img  src="https://github-readme-stats.vercel.app/api?username=hilal-almoqbali&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=hilal-almoqbali&theme=dark" width="48%" >
+<br>
+
 
 
