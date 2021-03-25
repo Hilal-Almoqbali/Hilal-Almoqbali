@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
 <br/>
 </p>
-![Hilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=hilal-almoqbali&show_icons=true&theme=outrun)\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilal-almoqbali&hide=javascript,html)
+
+![hilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hilal-Almoqbali&show_icons=true&theme=outrun)\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hilal-Almoqbali&hide=javascript,html)
 
 
