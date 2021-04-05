@@ -5,10 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on C/C++ projects, and personal website.
-- 🌱 I’m currently learning mathematics, C/C++,and JS.
-- 🤔 I’m looking for knowledge.
-- 💬 Ask me about nothing.
+
+- 🌱 I’m currently learning mathematics, C/C++,HTML,CSS,Pyton,mathematica,and JS.
+
 - 📫 How to reach me: Twitter[@Hilal_Almoqbali](https://twitter.com/Hilal_Almoqbali)
 
 ### 🌎 My Languages 🌎
