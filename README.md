@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning mathematics, C/C++,HTML,CSS,Pyton,mathematica,and JS.
+- 🌱 I’m currently learning mathematics, C/C++,HTML,CSS,Pyton,mathematica,and Javascript.
 
 - 📫 How to reach me: Twitter[@Hilal_Almoqbali](https://twitter.com/Hilal_Almoqbali)
 
