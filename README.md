@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on C/C++ projects, and personal website.
 - 🌱 I’m currently learning mathematics, C/C++,and JS.
 - 🤔 I’m looking for knowledge.
-- 💬 Ask me about no thing.
+- 💬 Ask me about nothing.
 - 📫 How to reach me: Twitter[@Hilal_Almoqbali](https://twitter.com/Hilal_Almoqbali)
 
 ### 🌎 My Languages 🌎
