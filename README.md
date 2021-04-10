@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 ### 🌎 My Languages 🌎
 - om Arabic: Native
 - uk English: B2
+- ge Germany: A1
 
 [What does A1/A2/B1/B2/C1/C2 mean?](https://blog.chatterbug.com/en/how-to-talk-about-language-learning/)
 ### Tech Stack I am Familiar With:
