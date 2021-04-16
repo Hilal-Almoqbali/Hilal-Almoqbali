@@ -1,4 +1,4 @@
-## Hello there, I am [Hilal](https://github.com/chaitanyashimpi) 👋
+## Hello there 👋
 ![Viewz](https://komarev.com/ghpvc/?username=Hilal-Almoqbali&style=flat-square&color=ff69b4) <br>
 ### About me
 
