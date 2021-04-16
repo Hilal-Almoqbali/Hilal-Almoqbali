@@ -49,8 +49,8 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Hilal-Almoqbali&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Hilal-Almoqbali&theme=dark" width="48%" >
-
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilal-Almoqbali&theme=dracula&show_icons=true" width="48%" >
+<!-- most used lang.. -->
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilal-Almoqbali&theme=dracula&show_icons=true" ><!-- width="48%"-->
 <br>
 
 <div align="center">
