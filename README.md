@@ -2,8 +2,8 @@
 ![Viewz](https://komarev.com/ghpvc/?username=Hilal-Almoqbali&style=flat-square&color=ff69b4) <br>
 ### About me
 
-- 🔭 I’m currently working on personal website and C/C++ projects.
-- 🌱 I’m currently learning mathematics, C/C++, and HTML.
+- 🔭 I’m currently working on personal website and C/C++ and OpenGL projects.
+- 🌱 I’m currently learning mathematics, C/C++, OpenGL, and HTML.
 - 🔭 I’m currently Selected studing mathematics.
 - 💬 Ask me about nothing sofar.
 ### 🌎 My Languages 🌎
