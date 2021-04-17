@@ -9,7 +9,7 @@
 ### 🌎 My Languages 🌎
 
 - 🇴🇲 Arapic: Native
-- 🇬🇧 English: B1
+- 🇬🇧 English: C1
 - 🇩🇪 German: A1
 
 [What does A1/B1/etc mean?](http://blog.chatterbug.com/en/how-to-talk-about-language-learning/)
