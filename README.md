@@ -1,4 +1,4 @@
-## Hello there <img alt="C" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" style="margin:2px;"/>
+## Hello there <img alt="C" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" style="margin:2px;" width="4%";/><!--style="margin:2px;"-->
 ![Viewz](https://komarev.com/ghpvc/?username=Hilal-Almoqbali&style=flat-square&color=ff69b4) <br>
 ### About me
 
