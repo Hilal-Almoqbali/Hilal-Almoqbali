@@ -2,7 +2,7 @@
 ### About me
 
 - 🔭 I’m currently working on personal website and C/C++ and OpenGL projects.
-- 🌱 I’m currently learning mathematics, C/C++, Fortran, OpenGL, and HTML.
+- 🌱 I’m currently learning mathematics, C/C++, Fortran,Assembly, OpenGL, and HTML.
 - 🔭 I’m currently Selected studing mathematics.
 - 💬 Ask me about nothing sofar.
 ### 🌎 My Languages 🌎
