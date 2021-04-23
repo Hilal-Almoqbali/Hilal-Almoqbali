@@ -1,5 +1,6 @@
 ## Hello there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-### About me
+<details>
+  <summary>About me</summary>
 
 - 🔭 I’m currently working on personal website and C/C++ and OpenGL projects.
 - 🌱 I’m currently learning mathematics, C/C++, Fortran,Assembly, OpenGL, and HTML.
@@ -44,6 +45,7 @@
 -->
 <br/>
 </p>
+</details>
 <!--
 <details>
   <summary><h2>🏆 Github Status</h2></summary>
