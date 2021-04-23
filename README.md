@@ -44,8 +44,16 @@
 -->
 <br/>
 </p>
+<!--
+<details>
+  <summary><h2>🏆 Github Status</h2></summary>
+</details>
+-->
 
-## 🏆 Github Status
+<details>
+  <summary><h2>🏆 Github Status</h2></summary>
+
+
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Hilal-Almoqbali&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Hilal-Almoqbali&theme=dark" width="48%" >
@@ -72,3 +80,4 @@
 [<img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://chaitanyashimpi.medium.com/)
 <br />
 </div> -->
+</details>
