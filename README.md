@@ -53,7 +53,7 @@
 -->
 
 <details>
-  <summary><h2>🏆 Github Status</h2></summary>
+  <summary>🏆 Github Status</summary>
 
 
 
