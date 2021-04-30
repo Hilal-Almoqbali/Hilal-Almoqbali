@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning mathematics, C/C++, Fortran,Assembly, OpenGL, and HTML.
 - 🔭 I’m currently Selected studing mathematics.
 - 💬 Ask me about nothing sofar.
+-  fun fact about me I know what that Volume Integral mean
 ### 🌎 My Languages 🌎
 
 - 🇴🇲 Arapic: Native
