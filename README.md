@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning mathematics, C/C++, Fortran,Assembly, OpenGL, and HTML.
 - 🔭 I’m currently Selected studing mathematics.
 - 💬 Ask me about nothing sofar.
-
+-   Fun fact about me, I don't like the interpreted languages.
 ### 🌎 My Languages 🌎
 
 - 🇴🇲 Arapic: Native
