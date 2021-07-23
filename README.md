@@ -10,7 +10,7 @@
 ### 🌎 My Languages 🌎
 
 - 🇴🇲 Arapic: Native
-- 🇬🇧 English: C1
+- 🇬🇧 English: B2
 - 🇩🇪 German: A1
 - 🇷🇺 Russian: A1
   
