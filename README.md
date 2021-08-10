@@ -2,7 +2,7 @@
 <details>
   <summary>About me</summary>
 
-- 🔭 I’m currently working on personal website and C/C++ and OpenGL projects.
+- 🔭 I’m currently working on personal website and C/C++ and some projects.
 - 🌱 I’m currently learning mathematics, C/C++, Vulkan, and HTML.
 - 🔭 I’m currently Selected studing mathematics.
 - 💬 Ask me about nothing sofar.
