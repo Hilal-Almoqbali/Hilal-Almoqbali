@@ -3,7 +3,7 @@
   <summary>About me</summary>
 
 - 🔭 I’m currently working on personal website and C/C++ and OpenGL projects.
-- 🌱 I’m currently learning mathematics, C/C++, Fortran,Assembly, OpenGL, and HTML.
+- 🌱 I’m currently learning mathematics, C/C++, Vulkan, and HTML.
 - 🔭 I’m currently Selected studing mathematics.
 - 💬 Ask me about nothing sofar.
 -   Fun fact about me, I don't like the interpreted languages.
@@ -11,8 +11,7 @@
 
 - 🇴🇲 Arapic: Native
 - 🇬🇧 English: B2
-- 🇩🇪 German: A1
-- 🇷🇺 Russian: A1
+
   
 [What does A1/B1/etc mean?](http://blog.chatterbug.com/en/how-to-talk-about-language-learning/)
 
