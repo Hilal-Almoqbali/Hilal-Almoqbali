@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning mathematics, C/C++, Vulkan, and HTML.
 - 🔭 I’m currently Selected studing mathematics.
 - 💬 Ask me about nothing sofar.
--   Fun fact about me, I am not good in making nice UI.
+-   Fun fact about me, I am not good at make nice UI.
 ### 🌎 My Languages 🌎
 
 - 🇴🇲 Arapic: Native
