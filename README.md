@@ -2,11 +2,11 @@
 <details>
   <summary>About me</summary>
 
-- 🔭 I’m currently working on personal website and C/C++ and some projects.
+- 🔭 I’m currently working on personal website and some projects.
 - 🌱 I’m currently learning mathematics, C/C++, Vulkan, and HTML.
 - 🔭 I’m currently Selected studing mathematics.
 - 💬 Ask me about nothing sofar.
--   Fun fact about me, I don't like the interpreted languages.
+-   Fun fact about me, I am stupid.
 ### 🌎 My Languages 🌎
 
 - 🇴🇲 Arapic: Native
